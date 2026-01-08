@@ -6,7 +6,7 @@ I'm an engineer with 10+ years of experience working as a fullstack developer. I
 🪙 Involved in Holochain & Blockchain ecosystem since 2017.
 
 ## 🤖 Technologies Used
-  ![My Skills](://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,npm,vue,react,express,postgres,docker,aws,nginx,git,go,rust,activitypub,ableton,azure,cassandra,django,fediverse,figma,gradle,ipfs,java,kotlin,nestjs,raspberrypi, reactivex,redis,spring)
+  ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,npm,vue,react,express,postgres,docker,aws,nginx,git,go,rust,activitypub,ableton,azure,cassandra,django,fediverse,figma,gradle,ipfs,java,kotlin,nestjs,raspberrypi,reactivex,redis,spring)
 
 <!--
 **9mzodiac/9mzodiac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
