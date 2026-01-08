@@ -2,6 +2,12 @@
 
 I'm an engineer with 10+ years of experience working as a fullstack developer. I'm passionate about P2P ( peer to peer ) apps, post-blockchain technologies, and ethical crypto. My path involves an intersection of technology, engineering, and music. At heart, I'm a product designer and only seek to build what I would use solve real problems I relate to.  
 
+## About Me
+🪙 Involved in Holochain & Blockchain ecosystem since 2017.
+
+## 🤖 Technologies Used
+  ![My Skills](://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,npm,vue,react,express,postgres,docker,aws,nginx,git,go,rust,activitypub,ableton,azure,cassandra,django,fediverse,figma,gradle,ipfs,java,kotlin,nestjs,raspberrypi, reactivex,redis,spring)
+
 <!--
 **9mzodiac/9mzodiac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
