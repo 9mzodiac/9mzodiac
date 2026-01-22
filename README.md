@@ -6,6 +6,7 @@ I'm a fullstack engineer with 10+ years of experience building production softwa
 - 🪙 Involved in Holochain & Blockchain ecosystem since 2017.
 - ⚡ Mobile Developer ( React Native, Native iOS SDk, Native Android SDK )
 - 🔭 Web Developer ( React, NextJS, Vue, HTML, CSS, basically anything modern web )
+- 🌱 Web3 Developer ( Rust, Go, Solidity, Up to date with emerging P2P stacks )
 
 ## 🤖 Technologies Used
   ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,npm,vue,react,express,postgres,docker,aws,nginx,git,go,rust,activitypub,ableton,azure,cassandra,django,fediverse,figma,gradle,ipfs,java,kotlin,nestjs,raspberrypi,reactivex,redis,spring)
