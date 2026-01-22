@@ -1,11 +1,11 @@
 ## Hi, I'm Daniel!
 
-I'm an engineer with 10+ years of experience working as a fullstack developer. I'm passionate about P2P ( peer to peer ) apps, post-blockchain technologies, and ethical crypto. My path involves an intersection of technology, engineering, and music. At heart, I'm a product designer and only seek to build what I would use solve real problems I relate to.  
+I'm a fullstack engineer with 10+ years of experience building production software across frontend, backend, and decentralized systems. I'm especially interested in P2P applications, post-blockchain technologies, and ethical crypto. My work lives at the intersection of engineering, product design, and music, and I focus on building tools I would genuinely use myself.
 
 ## About Me
-🪙 Involved in Holochain & Blockchain ecosystem since 2017.
-⚡ Mobile Developer ( React Native, Native iOS SDk, Native Android SDK )
-🔭 Web Developer ( React, NextJS, Vue, HTML, CSS, basically anything modern web )
+- 🪙 Involved in Holochain & Blockchain ecosystem since 2017.
+- ⚡ Mobile Developer ( React Native, Native iOS SDk, Native Android SDK )
+- 🔭 Web Developer ( React, NextJS, Vue, HTML, CSS, basically anything modern web )
 
 ## 🤖 Technologies Used
   ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,npm,vue,react,express,postgres,docker,aws,nginx,git,go,rust,activitypub,ableton,azure,cassandra,django,fediverse,figma,gradle,ipfs,java,kotlin,nestjs,raspberrypi,reactivex,redis,spring)
