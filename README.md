@@ -3,7 +3,7 @@
 I'm a fullstack engineer with 10+ years of experience building production software across frontend, backend, and decentralized systems. I'm especially interested in P2P applications, post-blockchain technologies, and ethical crypto. My work lives at the intersection of engineering, product design, and music, and I focus on building tools I would genuinely use myself.
 
 ## About Me
-- 🪙 Involved in Holochain & Blockchain ecosystem since 2017.
+- 🪙 Involved in P2P, Holochain, & Blockchain ecosystem since 2017.
 - ⚡ Mobile Developer ( React Native, Native iOS SDk, Native Android SDK )
 - 📫 Backend Developer ( Everything from Dotnet or Spring Boot enterprise stacks to NodeJS startup stacks )
 - 🔭 Web Developer ( React, NextJS, Vue, HTML, CSS, basically anything modern web )
