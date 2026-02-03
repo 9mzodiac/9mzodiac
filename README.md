@@ -1,6 +1,6 @@
 ## Hi, I'm Daniel!
 
-I'm a fullstack engineer with 10+ years of experience building production software across frontend, backend, and decentralized systems. I'm especially interested in P2P applications, post-blockchain technologies, and ethical crypto. My work lives at the intersection of engineering, product design, and music, and I focus on building tools I would genuinely use myself.
+I'm a fullstack engineer with 10+ years of experience building software across frontend, backend, and decentralized systems. I'm especially interested in P2P applications, post-blockchain technologies, and ethical crypto. My work lives at the intersection of engineering, product design, and music, and I focus on building tools I would genuinely use myself.
 
 ## About Me
 - 🪙 Involved in P2P, Holochain, & Blockchain ecosystem since 2017.
